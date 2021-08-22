@@ -16,7 +16,8 @@ description: Markdown summary with different options
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
-[get the PDF]({{ site.url }}/_posts_/resume.pdf) directly
+
+<a href="EliottZemour.github.io/_posts/resume.pdf" target="_blank">PDF.</a>
 
 #### Especial Elements
 - [Evidence](#evidence)
