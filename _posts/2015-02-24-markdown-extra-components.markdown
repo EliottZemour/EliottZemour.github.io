@@ -17,7 +17,7 @@ description: Markdown summary with different options
 
 You can pick as item to see how to apply in markdown.
 
-<a href="EliottZemour.github.io/_posts/resume.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/EliottZemour/EliottZemour.github.io/raw/66fe19f0ae59f50beffd08107e0e24c39239d616/_posts/resume.pdf" target="_blank">PDF.</a>
 
 #### Especial Elements
 - [Evidence](#evidence)
