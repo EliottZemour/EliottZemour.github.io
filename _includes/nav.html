@@ -32,6 +32,7 @@
 
         {% if site.resume == true %}
             <li class="item">
+                <!--<object data="{{ _posts/resume.pdf }}" width="1000" height="1000" type='application/pdf'/></object>Résumé</a>-->
                 <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a>
             </li>
         {% endif %}
