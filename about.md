@@ -9,7 +9,8 @@ Hello! My name is Eliott and I am a master student in Computational Science and 
 
 My main interests are computational mathematics, ML, reinforcement learning, and most importantly AI safety and ethics.  
 
-This website aims to present the projects carried out during my bachelor and master studies, as well as some side projects that I did for fun. Feel 
+This website aims to present the projects carried out during my bachelor and master studies, as well as some side projects that I did for fun.  
+My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an email anytime at [zemoureliott@protonmail.com](mailto:zemoureliott@protonmail.com).
 
 <h2>Skills</h2>
 
