@@ -13,5 +13,8 @@ author: eliott
 externalLink: false
 ---
 
+* [Kaggle link](https://www.kaggle.com/c/higgs-boson/)
+* [AI crowd link](https://www.aicrowd.com/challenges/epfl-machine-learning-higgs)
+* [Report](/assets/projectreports/ml-project1_report.pdf)
 
 ---

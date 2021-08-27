@@ -42,7 +42,7 @@ that consist of linear combination of these.
 * Colab notebooks available for reproducibility.
 
 ### Links
-* Here's the link to the [report](https://github.com/EliottZemour/NN-TransportEq-project/raw/main/cse_project_report.pdf). 
+* Here's the link to the [report](/assets/projectreports/cse_project_report.pdf). 
 * Link to the [repository](https://github.com/EliottZemour/NN-TransportEq-project).
 * The dataset used in this project work is available on [Kaggle](https://www.kaggle.com/eliottzemour/neural-networks-for-tranport-equation).
 

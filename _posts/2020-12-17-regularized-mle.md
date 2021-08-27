@@ -34,7 +34,7 @@ In this report, we investigate an automatized approach by introducing a regulari
 
 
 ### Links
-* Here's the link to the [report](https://github.com/EliottZemour/cs-433-project-2-lpmc_dcm/raw/main/ML_Project_2.pdf). 
+* Here's the link to the [report](/assets/projectreports/ml-project2_report.pdf). 
 * Link to the [repository](https://github.com/EliottZemour/cs-433-project-2-lpmc_dcm).
 * The dataset used is London Passenger Mode Choice (LPMC) revealed-preference data. A description of the features can be found [here](https://transp-or.epfl.ch/documents/technicalReports/CS_LPMC.pdf).
 * Full details of the framework, dataset, and the models it was used to develop are given in [Hillel et al. (2018)](https://doi.org/10.1680/jsmic.17.00018).
