@@ -33,7 +33,13 @@ grid. When the network is trained on a given type of functions, it appears to re
 well the targeted outputs. However, this approach does not seem to be very promising if the
 goal is to train a model over basis functions, and use it for enhancing transported functions
 that consist of linear combination of these.
+
 ---
+
+### About this project
+* Python code.
+* Packages/Librairies: Keras, Tensorflow, Numpy.
+* Colab notebooks available for reproducibility.
 
 ### Links
 * Here's the link to the [report](https://github.com/EliottZemour/NN-TransportEq-project/raw/main/cse_project_report.pdf). 
