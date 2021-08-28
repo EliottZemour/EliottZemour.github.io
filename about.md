@@ -2,8 +2,12 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<header class="profile-pic {% if site.animation %}animated{% endif %}">
+		<img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+</header>
+
+## About me
 
 Hello! My name is Eliott and I am a master student in Computational Science and Engineering at EPFL, the Swiss Federal Institute of Technology in Lausanne.
 
@@ -25,3 +29,11 @@ My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an
 	<li>Parallel Computing: OpenMP, CUDA, MPI</li>
 	<li>Git</li>
 </ul>
+
+## My resume
+See [this page](/assets/resume-1.pdf) for the pdf format.  
+
+[//]: <> this is a comment  
+
+<img class="image" src="/assets/images/resume-1.png" alt="Alt Text">
+
