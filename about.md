@@ -31,7 +31,7 @@ My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an
 </ul>
 
 ## My resume
-See [this page](/assets/resume-1.pdf) for the pdf format.  
+See [here](https://github.com/EliottZemour/EliottZemour.github.io/raw/716685c4ec0d5fe8229e00a9901afde428ef9624/assets/resume.pdf) for the pdf format.  
 
 [//]: <> this is a comment  
 
