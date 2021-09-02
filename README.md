@@ -4,7 +4,7 @@ This website aims to present the projects carried out during my bachelor and mas
 
 Link of the website : [https://eliottzemour.github.io/](https://eliottzemour.github.io/).  
 
-![screenshot](/assets/screen-shot.png)
+![screenshot](/assets/images/screenshot.png)
 
 I used the Indigo Minimalist Jekyll Template forked from [https://github.com/sergiokopplin/indigo](https://github.com/sergiokopplin/indigo).
 
