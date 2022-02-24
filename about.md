@@ -9,8 +9,7 @@ layout: page
 
 ## About me
 
-Hello! My name is Eliott and I am a master student in Computational Science and Engineering at EPFL, the Swiss Federal Institute of Technology in Lausanne.  
-__I am currently looking for 6-month internship opportunities in machine learning starting february-march 2022__.
+Hello! My name is Eliott and I am a master student in Computational Science and Engineering at EPFL, the Swiss Federal Institute of Technology in Lausanne.
 
 My main interests are computational mathematics, ML, reinforcement learning, and most importantly ethics and fairness of AI.  
 
@@ -36,5 +35,5 @@ See [here](/assets/resume.pdf) for the pdf format.
 
 [//]: <> this is a comment  
 
-<img class="image" src="/assets/images/resume-1.png" alt="Alt Text">
+[//]: <> this is a comment  <img class="image" src="/assets/images/resume-1.png" alt="Alt Text">
 
