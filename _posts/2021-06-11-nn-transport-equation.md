@@ -43,7 +43,7 @@ that consist of linear combination of these.
 * Python code.
 * Packages/Librairies: Keras, Tensorflow, Numpy.
 * Colab notebooks available for reproducibility.
-* 8 ECTS. Grade obtained: 6/6.
+* 8 ECTS.
 
 ### Links
 * Here's the link to the [report](/assets/projectreports/cse_project_report.pdf). 
