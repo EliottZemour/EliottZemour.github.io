@@ -1,5 +1,5 @@
 ---
-title: "Who has a voice in the media ? An EPFL project to discover who to be quotes in newspapers "
+title: "Who has a voice in the media ? An EPFL project to discover who gets to be quoted in newspapers"
 layout: post
 date: 2021-12-20 12:00
 tag: DataViz, WebDev, Python, API
