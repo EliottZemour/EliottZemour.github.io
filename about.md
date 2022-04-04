@@ -13,21 +13,21 @@ Hello! My name is Eliott and I am a master student in Computational Science and 
 
 My main interests are computational mathematics, natural language processing, reinforcement learning, as well as ethics and fairness of AI.  
 
-This website aims to present the projects carried out during my bachelor and master studies, as well as some side projects that I did for fun.  
-My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an email anytime at [zemoureliott@protonmail.com](mailto:zemoureliott@protonmail.com).
+My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an email anytime at zemoureliott [at] protonmail [dot] com.
 
 <h2>Skills</h2>
 
+[//]: <aaa>
 <ul class="skill-list">
 	<li>Machine Learning, Deep Learning, Reinforcement Learning</li>
 	<li>Natural Language Processing, Computer Vision</li>
 	<li>Statistics, Numerical Analysis, Computational Linear Algebra</li>
-	<li>C/C++, Python</li>
-	<li>Pytorch, Tensorflow, Keras, Pandas</li>
-	<li>Matlab</li>
+	<li>C/C++, Python, Matlab</li>
+	<li>Pytorch, Tensorflow, HuggingFace, Pandas</li>
 	<li>Parallel Computing: OpenMP, CUDA, MPI</li>
 	<li>Git</li>
 </ul>
+[//]: <>
 
 ## My resume
 See [here](/assets/resume.pdf) for the pdf format.  
