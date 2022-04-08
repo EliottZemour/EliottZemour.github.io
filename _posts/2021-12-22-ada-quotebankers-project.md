@@ -4,7 +4,7 @@ layout: post
 date: 2021-12-20 12:00
 tag: DataViz, WebDev, Python, API
 image: /assets/images/wordcloud-speakers-blue-hq.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: ""
@@ -14,9 +14,14 @@ externalLink: false
 ---
 This is a project carried out for the [Applied Data Analysis](https://edu.epfl.ch/coursebook/en/applied-data-analysis-CS-401) course at EPFL.  
 Made in collaboration with [Thomas Benchetrit](https://www.linkedin.com/in/thomas-benchetrit/), [Matheus Bernat](https://www.linkedin.com/in/matheus-bernat/), and [Benjamin Hansson](https://www.linkedin.com/in/benjamin-hansson-39b391140/).  
-See the website: [https://quotebankers.github.io/](https://quotebankers.github.io/)
 
 
+### See the website:
+<p class="aligncenter">
+<a href="https://quotebankers.github.io/">
+        <img src="/assets/images/semester1/quotebankers_screen.png" alt="screen" width="700">
+</a>
+</p>
 ---
 
 Isn't it a pleasure to be listened to? The ability to make your voice heard is a privilege that few have. Sometimes you can have the feeling that only the loudest are listened to. Using the Quotebank dataset from 2015 to 2020 and information about the speakers exctracted from Wikidata, we were able to dissect : 

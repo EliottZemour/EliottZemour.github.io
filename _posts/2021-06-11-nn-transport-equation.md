@@ -4,7 +4,7 @@ layout: post
 date: 2021-06-11 22:10
 tag: semester1
 image: /assets/images/EPFL_Logo.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: ""
@@ -43,7 +43,6 @@ that consist of linear combination of these.
 * Python code.
 * Packages/Librairies: Keras, Tensorflow, Numpy.
 * Colab notebooks available for reproducibility.
-* 8 ECTS.
 
 ### Links
 * Here's the link to the [report](/assets/projectreports/cse_project_report.pdf). 
