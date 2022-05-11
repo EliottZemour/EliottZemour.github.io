@@ -15,7 +15,7 @@ My main interests are computational mathematics, natural language processing, re
 
 My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an email anytime at zemoureliott [at] protonmail [dot] com.
 
-[![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Skills</h2>
 
