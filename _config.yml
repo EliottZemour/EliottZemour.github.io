@@ -1,6 +1,6 @@
 # main text of home
 name: Eliott Zemour
-bio: Master in Computational Science and Engineering @ EPFL | Data Science Intern @ Illuin Technology
+bio: Graduate Research Student @ MIT CSAIL | Master in Computational Science and Engineering @ EPFL
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -57,7 +57,7 @@ authors:
     name: Eliott Zemour
     bio: A CS master student
     external-image: false
-    picture: assets/images/avatar.png
+    picture: assets/images/eliott.png
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

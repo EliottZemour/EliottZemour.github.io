@@ -17,3 +17,5 @@ gem "jemoji", "~> 0.12.0"
 gem "jekyll-admin", "~> 0.11.0"
 
 gem "jekyll-paginate-v2", "~> 3.0"
+
+gem "webrick", "~> 1.7"
