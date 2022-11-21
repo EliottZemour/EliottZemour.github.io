@@ -9,9 +9,9 @@ layout: page
 
 ## About me
 
-Hello! My name is Eliott and I am a master student in Computational Science and Engineering at EPFL, the Swiss Federal Institute of Technology in Lausanne. In September, I'll be starting my Master Thesis at the Decentralized Information Group (MIT).
+Hello! My name is Eliott and I am a master student in Computational Science and Engineering at EPFL, the Swiss Federal Institute of Technology in Lausanne. As of Sept 2022, I'll be carrying out my master thesis at the Decentralized Information Group (MIT CSAIL).
 
-My main interests are computational mathematics, natural language processing, reinforcement learning, as well as ethics and fairness of AI.  
+My main interests are natural language processing, reinforcement learning, as well as privacy and fairness of AI.  
 
 
 My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an email anytime at zemoureliott [at] gmail [dot] com.
@@ -23,7 +23,7 @@ My GitHub is [EliottZemour](https://github.com/EliottZemour). You can drop me an
 [//]: <aaa>
 <ul class="skill-list">
 	<li>Machine Learning, Deep Learning, Reinforcement Learning</li>
-	<li>Natural Language Processing</li>
+	<li>Natural Language Processing: Transformers, Spacy, NLTK</li>
 	<li>Statistics, Numerical Analysis, Computational Linear Algebra</li>
 	<li>Python, C/C++, Matlab</li>
 	<li>Pytorch, Transformers, Tensorflow</li>
